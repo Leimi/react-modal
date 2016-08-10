@@ -1,3 +1,10 @@
+v1.5.0 (Build only done here while waiting for official one)
+--------------------------------------
+
+- added portalClassName prop to change portal class.
+- and like 2 or 3 fixes
+
+
 v1.4.0 - Thu, 30 Jun 2016 19:12:02 GMT
 --------------------------------------
 
